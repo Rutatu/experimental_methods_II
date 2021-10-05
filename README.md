@@ -23,7 +23,7 @@ analyses.
 | Portfolio 4: fMRI preprocessing | In this exercise we are preparing fMRI data for analysis and look at some of the output. We look at all the fMRI data from one participant |
 | Portfolio 5: Model specification | In this exercise, we make a model for the analysis of the data that we preprocessed in Portfolio 4. The model is specified by onsets for the different stories and by their duration, the onsets for emotional ratings of the stories |
 | Portfolio 6: fMRI model estimation | In this exercise, we estimate the model of the data that we designed in Portfolio 4. We get the results and report them, if there are any. An SPM software package (Matlab) was used to obtain the results. For comparison of different conditions we employ T-contrast and F-contrast|
-| Portfolio 7: Mixed effects | We practice mixed effects models (including 2-way and 3-way interactions) using data from to experimental studies: Emotional faces experiment & Tryptophan depletion study analysis|
+| Portfolio 7: Mixed effects | We practice mixed effects models (including 2-way and 3-way interactions) using data from two experimental studies: Emotional faces experiment & Tryptophan depletion study analysis|
 | Portfolio 8: EEG Stop-Signal-NoGo | Reporting results of an EEG data after conducting the preprocessing |
 | Portfolio 9: fMRI group analysis | We investigate the fMRI brain scans from emotional face experiment which consists of the following parts: Preprocessing and modeling of individual participants, Investigating analysis of a single participant, Group analysis |
 | Portfolio 10: PCA factor analysis | Real World Immitating Task employing Principal Component Analysis and Factor analysis  |
