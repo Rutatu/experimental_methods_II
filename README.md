@@ -15,6 +15,8 @@ analyses.
 
 ## Portfolio assignments
 
+File ```Portfolio assignments.pdf``` contains a full description of the assignment instructions. File ```Portfolio_exam.pdf``` is a compilation of the solutions to all of the portfolio assignments.
+
 | Assignment | Description |
 | --- | --- |
 | Portfolio 1: Regression | Sleep deprivation excercise where we look at response time as a function of days of sleep deprivation and practice linear regression analysis method  |
