@@ -30,3 +30,28 @@ File ```Portfolio assignments.pdf``` contains a full description of the assignme
 | Portfolio 9: fMRI group analysis | We investigate the fMRI brain scans from emotional face experiment which consists of the following parts: Preprocessing and modeling of individual participants, Investigating analysis of a single participant, Group analysis |
 | Portfolio 10: PCA factor analysis | Real World Immitating Task employing Principal Component Analysis and Factor analysis  |
 
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+***Knowledge:***
+After completing the course, students will have gained knowledge of:
+- How the general linear model (GLM) is used for the analysis of brain scan data
+- Basic assumptions about multivariate statistics
+- Various types of multivariate analyses, such as principal component analysis, canonical
+correlation and linear discriminant analysis
+
+***Skills:***
+After completing the course, students will be able to:
+- Understand, develop and carry out complex experiments
+- Assist in analyses of brain scan data that use the general linear model
+- Analyse multiple types of data using multivariate statistics
+
+***Competences:***
+After completing the course, students will be able to:
+- Explain what multivariate analysis includes and when this kind of analysis is suitable
+- Compare univariate and multivariate statistics and identify strengths and weaknesses of the
+two methods
+- Identify the potential for further learning in relation to analyses of brain data using the
+general linear model
+- Identify the potential for further learning in relation to multivariate analyses
